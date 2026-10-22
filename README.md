@@ -2,7 +2,7 @@
 
 WebAntiSS is a small JavaScript library that helps protect images on websites from being captured by screenshots.
 
-It replaces each <img> with a <canvas>. The canvas only draws small, random parts of the image at a time. Because the full image is never shown all at once, a screenshot can only capture a small piece—not the whole picture.
+It replaces each "<img>" with a <canvas>. The canvas only draws small, random parts of the image at a time. Because the full image is never shown all at once, a screenshot can only capture a small piece—not the whole picture.
 
 # Features
 
